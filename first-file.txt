@@ -1,7 +1,3 @@
 추적이 되는지 봅시다!
 
-<<<<<<< HEAD
-test clone
-=======
-test
->>>>>>> 4faa7c47552a4443593402bc5f53a732824b95f5
+test clone test
